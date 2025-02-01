@@ -6,7 +6,7 @@ This project is my final project for the BlueDot AI Alignment Course (https://ai
 
 This project explores how AI models can be improved as **feedback providers in RLAIF**. I will use the example of identifying gender bias. Instead of providing feedback by evaluating bias in isolation from a **single prompt**, I propose a **multiple-prompt approach**, where AI models compare responses to male- and female-focused prompts to identify biased patterns. Using a Constitutional AI setup, I will assess SOTA models' ability to recognize and provide reliable feedback on gender bias through this comparative method.
 
-The code and dataset can be founds in this github repo: TODO
+The code and dataset can be founds in this github repo: https://github.com/bessmarche/ai-alignment-rlaif-gender-bias
 
 The full write-up of the project can be found here: TODO
  
